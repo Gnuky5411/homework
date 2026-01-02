@@ -403,4 +403,4 @@
     Drone Journalism Infographic • 軍事技術から報道の視点へ
   </footer>
 </body>
-</html>python -m http.server 8000 --bind 0.0.0.0 --directory /workspaces/my-code
+</html>python -m http.server 8000 --bind 0.0.0.0 --directory /workspaces/homework
